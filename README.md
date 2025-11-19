@@ -32,6 +32,6 @@ it’s a big-shot, polished, portfolio-ready E-Commerce frontend that showcases 
 
 📸 Preview
 
-(Add your project screenshot or demo link here)
+([ demo link here](https://playful-kashata-ec8dc7.netlify.app/))
 
 🙌 Feel free to explore, fork, or star the repo! ⭐
